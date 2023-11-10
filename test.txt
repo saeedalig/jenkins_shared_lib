@@ -1,0 +1,3 @@
+copy the url of jenkins_shared_lib 
+go to manage jenkins >> configure system >> search for global pipeline libraries (Name, Branch, Project Repo-> java_app) save
+
